@@ -1,4 +1,4 @@
-package com.mars.mini;
+package com.jav4.acomm;
 
 import java.util.List;
 
@@ -7,7 +7,8 @@ import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
-import com.mars.mini.AptVO;
+
+import com.jav4.acomm.AptVO;
 
 @Component
 public class AptDAO {

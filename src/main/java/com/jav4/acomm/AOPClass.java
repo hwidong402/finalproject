@@ -1,4 +1,4 @@
-package com.mars.mini;
+package com.jav4.acomm;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.springframework.stereotype.Component;

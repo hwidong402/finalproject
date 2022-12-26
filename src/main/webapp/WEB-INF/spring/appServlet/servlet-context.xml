@@ -25,7 +25,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.mars.mini" />
+	<context:component-scan base-package="com.jav4.acomm" />
 	
 	<!-- AOP 설정 -->
 	<!-- <beans:bean id="aspect" class="com.mars.mini.AOPClass"></beans:bean>

@@ -1,4 +1,4 @@
-package com.mars.mini;
+package com.jav4.acomm;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

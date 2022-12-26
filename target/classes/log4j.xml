@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.mars.mini">
+	<logger name="com.jav4.acomm">
 		<level value="info" />
 	</logger>
 	

@@ -1,4 +1,4 @@
-package com.mars.mini;
+package com.jav4.acomm;
 
 public class BbsVO {
 	private String id;

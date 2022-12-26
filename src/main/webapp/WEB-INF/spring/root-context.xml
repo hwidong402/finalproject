@@ -48,7 +48,7 @@
 	<!-- Transaction을 위한 AOP 설정 -->
 	<!-- 업무시 사용하기위해서는 이부분을 고쳐야함 -->
 	<!-- <aop:config proxy-target-class="true">
-		<aop:pointcut id="tran"	expression="execution(public * com.mars.mini.*.tran(..))" />
+		<aop:pointcut id="tran"	expression="execution(public * com.jav4.acomm.*.tran(..))" />
 		<aop:advisor advice-ref="txAdvice" pointcut-ref="tran" />
 	</aop:config> -->
 
